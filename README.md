@@ -1,6 +1,6 @@
 # 1. Домашнее задание к лекции «Компоненты»
 
-[[GithubPages](https://igor-chazov.github.io/ra-hw-1_components_1-store-func)]
+[![Build status](https://ci.appveyor.com/api/projects/status/heq4e5ct3tyqk5qw?svg=true)](https://ci.appveyor.com/project/igor-chazov/ra-hw-1-components-1-store-func) [[GithubPages](https://igor-chazov.github.io/ra-hw-1_components_1-store-func)]
 
 ### 1.1 Страница интернет-магазина (функциональный компонент)
 
